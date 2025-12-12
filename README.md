@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Estudante de Ciência da Computação com foco em ingressar na área de desenvolvimento de software. Tenho me dedicado ao aprendizado prático por meio de cursos online e projetos pessoais nas linguagens Python, JavaScript, HTML/CSS, C# e MySQL.
 
 
